@@ -1,7 +1,7 @@
 ### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
 ---
-My name is Prashanth Anem from India. I've been working as Front-End Developer since 2015 and Currently, I'm Senior Front-End Developer at [Tata Consultancy Services]. I'm passionate about open source projects, mostly about Web Development and JavaScript.
+As a JavaScript Full Stack Developer with 10 years of experience, I specialize in architecting scalable solutions, driving problem abstraction, and implementing modern engineering practices. I have a proven track record of adopting emerging technologies, integrating DevOps and CI/CD pipelines, and aligning development with industry best practices to deliver high-performing, future-ready applications. I'm passionate about open source projects, mostly about Web Development and Mobile Apps.
 
 In my free time I like to play (and watch) cricket (🏏), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a coffee (☕️).
 
